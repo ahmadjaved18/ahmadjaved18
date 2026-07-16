@@ -51,4 +51,4 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ahmadjaved18&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1545-blue)
