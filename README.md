@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🚀 AI Automation Intern @ Algotix AI  
+🚀 AI agents and automation @ Algotix AI  
 🤖 Building production-ready AI agents, Slack assistants & LLM-powered applications  
 🌱 Currently learning AI Agents, MCP, LangGraph, RAG, NestJS & scalable AI systems  
 👯 Open to collaborating on AI, open-source & full-stack projects  
