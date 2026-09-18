@@ -70,31 +70,15 @@ class AhmadJaved:
 #### ⚙️ Languages, Frameworks & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bash,react,nextjs,tailwind,vite,threejs,nodejs,nestjs,fastapi,flask&perline=15" alt="Languages and frameworks" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=express,postgres,supabase,redis,docker,githubactions,vercel,git,github,linux,sklearn,tensorflow,vitest,jest,vscode&perline=15" alt="Databases, DevOps and tools" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,nodejs,nestjs,fastapi,postgres,supabase,redis,docker,githubactions,vercel&perline=15" alt="Python, TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, NestJS, FastAPI, PostgreSQL, Supabase, Redis, Docker, GitHub Actions, Vercel" />
 </p>
 
-#### 📊 Data, ML & Tooling
+#### 🧰 Data & Dev Tools
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright" />
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
-  <img src="https://img.shields.io/badge/Slack%20Bolt-4A154B?style=for-the-badge" alt="Slack Bolt" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
